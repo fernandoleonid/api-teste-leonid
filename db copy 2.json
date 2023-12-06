@@ -1,0 +1,74 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Fernando Leonid",
+      "email": "fernandoleonid@gmail.com",
+      "celular": "11971657461",
+      "cidade": "Jandira"
+    },
+    {
+      "id": "2",
+      "nome": "Ana Oliveira",
+      "email": "anaoliveira@gmail.com",
+      "celular": "11987654321",
+      "cidade": "São Paulo"
+    },
+    {
+      "id": "3",
+      "nome": "Carlos Silva",
+      "email": "carlossilva@gmail.com",
+      "celular": "11998765432",
+      "cidade": "Campinas"
+    },
+    {
+      "id": "4",
+      "nome": "Mariana Santos",
+      "email": "marianasantos@gmail.com",
+      "celular": "11976543210",
+      "cidade": "Santo André"
+    },
+    {
+      "id": "5",
+      "nome": "Lucas Pereira",
+      "email": "lucaspereira@gmail.com",
+      "celular": "11965432109",
+      "cidade": "Sorocaba"
+    },
+    {
+      "id": "6",
+      "nome": "Camila Lima",
+      "email": "camilalima@gmail.com",
+      "celular": "11954321098",
+      "cidade": "Guarulhos"
+    },
+    {
+      "id": "7",
+      "nome": "Rafaela Rocha",
+      "email": "rafaelarocha@gmail.com",
+      "celular": "11943210987",
+      "cidade": "Osasco"
+    },
+    {
+      "id": "8",
+      "nome": "José Santos",
+      "email": "josesantos@gmail.com",
+      "celular": "11932109876",
+      "cidade": "São Bernardo do Campo"
+    },
+    {
+      "id": "9",
+      "nome": "Patricia Oliveira",
+      "email": "patriciaoliveira@gmail.com",
+      "celular": "11921098765",
+      "cidade": "São José dos Campos"
+    },
+    {
+      "id": "10",
+      "nome": "Anderson Lima",
+      "email": "andersonlima@gmail.com",
+      "celular": "11910987654",
+      "cidade": "Ribeirão Preto"
+    }
+  ]
+}
